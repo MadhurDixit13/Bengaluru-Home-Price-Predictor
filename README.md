@@ -77,7 +77,7 @@ To run the Bangalore House Price Prediction application locally using Nginx, fol
   ![Model Scores](assets/model_scores.png)
   
 - **Error Metrics (RMSE and MAE):**
-  ![Error Metrics](assets/error_metrics.png)
+  ![Error Metrics](assets/error_metric.png)
 
 The model achieved competitive scores in RMSE and MAE, indicating its effectiveness in predicting house prices.
 
